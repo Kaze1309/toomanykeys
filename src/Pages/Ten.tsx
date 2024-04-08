@@ -254,7 +254,7 @@ import useTypingGame, {
     var netwpm= 0;
     if (phase === PhaseType.Ended) {
       grosswpm = Math.round(
-        (correctChar / 5 / ((endTime - startTime) / 1000)) * 60
+        (correctChar / 5 / (getDuration() / 1000)) * 60
       );
       netwpm = grosswpm - errorChar;
       accuracy = Math.round((correctChar / length) * 100);
