@@ -1,7 +1,5 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import TypingGameDemo from "./Hundred";
 
+import { Link } from "react-router-dom";
 // function handleClick(event){
 //   var ntl = (event.target.value);
 //   switch (ntl) {

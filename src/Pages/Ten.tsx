@@ -226,12 +226,9 @@ import useTypingGame, {
         charsState,
         length,
         currIndex,
-        currChar,
         correctChar,
         errorChar,
         phase,
-        startTime,
-        endTime,
       },
       actions: { insertTyping, resetTyping, deleteTyping, getDuration },
     } = useTypingGame(text);
