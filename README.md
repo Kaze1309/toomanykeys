@@ -20,3 +20,8 @@ This is the <a href="https://toomanykeys-36a23.web.app/">link<a> to visit the si
   <li>react-router : for page navigation and routing.</li>
 </ul>
 
+<br>
+<hr>
+<h3>Some Images of the Site : </h3>
+![landing page](https://github.com/Kaze1309/toomanykeys/assets/127657064/57574daf-33a9-4917-869b-3f1d269d0cf8)
+<br>![completed test](https://github.com/Kaze1309/toomanykeys/assets/127657064/bd12610b-21fc-4bac-85de-b8b667edcb6d)
