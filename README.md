@@ -23,5 +23,5 @@ This is the <a href="https://toomanykeys-36a23.web.app/">link<a> to visit the si
 <br>
 <hr>
 <h3>Some Images of the Site : </h3>
-![landing page](https://github.com/Kaze1309/toomanykeys/landing page.png)
-<br>![completed test](https://raw.githubusercontent.com/Kaze1309/toomanykeys/main/landing%20page.png)
+<img href="https://raw.githubusercontent.com/Kaze1309/toomanykeys/main/landing%20page.png">
+<br>
